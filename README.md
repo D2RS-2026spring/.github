@@ -6,7 +6,7 @@ D2RS 即 Data Driven Reproducible Study，数据驱动的可重复性研究。20
 
 ## 2025年春学期 D2RS 课程相关材料
 
-全部资料还可查看：https://github.com/D2RS-2025spring。
+以下为部分资料，全部资料还可查看：<https://github.com/D2RS-2025spring>。
 
 * 2025年春学期 D2RS 课程作品展：<https://d2rs.hzau.edu.cn/>
 * 2025年春学期 D2RS 课程评价：<https://d2rs-2025spring.github.io/comments/>
