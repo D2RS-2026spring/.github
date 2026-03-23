@@ -2,7 +2,14 @@
 
 D2RS 即 Data Driven Reproducible Study，数据驱动的可重复性研究。2025年春季学期首次开课，本组织用于存放本次开课过程中所用到的课程讲义以及教学过程中产生的过程文件（包括作业提交和最终考察等）。
 
-下面是首次开课时候的部分课程资料。
+下面是部分课程资料。
+
+## 2026年春学期 D2RS 课程材料
+
+课程组织：<https://github.com/D2RS-2026spring>。
+
+* 2026年春学期 D2RS 课程成员：<https://github.com/D2RS-2026spring/members>
+* 2026年春学期 D2RS 课程项目：<https://github.com/D2RS-2026spring/projects>
 
 ## 2025年春学期 D2RS 课程相关材料
 
