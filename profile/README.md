@@ -11,6 +11,13 @@ D2RS 即 Data Driven Reproducible Study，数据驱动的可重复性研究。20
 * 2026年春学期 D2RS 课程成员：<https://github.com/D2RS-2026spring/members>
 * 2026年春学期 D2RS 课程项目：<https://github.com/D2RS-2026spring/projects>
 
+### 教学示范可重复研究项目
+
+* R 语言统计和数据可视化：<https://github.com/D2RS-2026spring/lecture5-R-group-comparison>
+* R 语言微生物组学案例：<https://github.com/D2RS-2026spring/lecture6-r-microbiome-analysis>
+* Python 手搓神经网络模型：<https://github.com/D2RS-2026spring/lecture7-nn-from-scratch>
+* Python 实例标注和预测：<https://github.com/D2RS-2026spring/lecture8-mask-r-cnn>
+
 ## 2025年春学期 D2RS 课程相关材料
 
 以下为部分资料，全部资料还可查看：<https://github.com/D2RS-2025spring>。
